@@ -1,6 +1,4 @@
 # Zoomer
 
 
-
-
-A fun/test website
+A just for fun/test website
